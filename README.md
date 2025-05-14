@@ -36,3 +36,15 @@
 
 ```bash
 pip install -r requirements.txt
+```
+
+## روابط التواصل
+
+- 🌐 GitHub: [ByNawaf](https://github.com/i-close)
+- 💬 Discord: [discord.gg/Nawaf](https://discord.gg/Ay4cqudf9r)
+
+---
+
+
+جميع الحقوق محفوظة © 2025
+
