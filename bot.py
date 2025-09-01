@@ -43,7 +43,7 @@ async def sendembed(ctx):
     # زر الموقع
     view.add_item(discord.ui.Button(
         label="الزر1",
-        url="https://www.gzteam.com/",
+        url="https://www.xxxxxxx.com/", # غير الموقع 
         style=discord.ButtonStyle.gray,
         emoji=website_emoji
     ))
@@ -67,3 +67,4 @@ async def sendembed(ctx):
     await ctx.send(embed=embed, view=view)
 
 bot.run("ضع_توكن_البوت_هنا")
+
